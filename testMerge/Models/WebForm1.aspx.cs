@@ -14,7 +14,7 @@ namespace testMerge.Models
             //coucou c'est kev toi répond moi en dessous
             //yezh toi
             int aloo;
-            aloo = 3;
+            aloo = 5;
             Console.WriteLine(aloo);
         }
     }
